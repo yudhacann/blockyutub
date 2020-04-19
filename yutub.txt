@@ -14,4 +14,7 @@ r6---sn-vgqseney.googlevideo.com
 r7---sn-8p8v-bg0d.googlevideo.com
 r8---sn-8p8v-bg0d.googlevideo.com
 r3---sn-2uuxa3vh-jb3r.googlevideo.com
+r2---sn-2uuxa3vh-jb3e7.googlevideo.com
+
+
 
